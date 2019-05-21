@@ -1,0 +1,5 @@
+N00523A20181;FAYE;Sokhena;07/09/1999;771735662;awa01@gmail.com;promo1;Présent(e);non exclus(e);
+N00lka20182;NDIONGUE;Rouba;2019-05-30;775893256;rouba@gmail.com;promo1;absent(e);exclus(e);
+N00865420152;BA;Tamara Aissata;2019-05-01;777010164;tamara.ba140 @gmail.com;promo1;Présent(e);exclus(e);
+N00125b20152;DIOP;Fatou;2019-05-31;765421832;diopa@gmail.com;promo1;absent(e);non exclus(e);
+N00865420142;DIEME;Symba;1980-11-25;78214563;symba@gmail.com;promo1;absent(e);exclus(e);

@@ -1,0 +1,5 @@
+prm-1;promo1;novembre 2017
+prm-2;promo2;2019-05
+prm-3;promo3;2019-05
+prm-4;promo4;2019-05
+prm-5;promo5;2019-12

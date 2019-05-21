@@ -1,0 +1,4 @@
+N00lokA20181;pomme;ndiaye;1992-12-12;772045400;awa@gmail.com;promo2;Présent(e);exclus(e);
+N00237B20192;DIAGNE;Ndioba;14/08/1997;771757695;ndio15@gmail.com;promo2;absent(e);exclus(e);
+N00AFAC20192;Sow;Mariama;2019-05-23;777526341;mariama@gmail.com;promo2;absent(e);exclus(e);
+djibyette;SALL SOW;Yacine;1995-12-20;784019091;mamasall2015@gmail.com;promo2;Présent(e);non exclus(e);
